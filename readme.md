@@ -1,0 +1,1 @@
+This a simple Bash script to streamline the process of creating a React project using Vite. Just run this script in your shell/terminal, provide your project name, and see the magic happen.
